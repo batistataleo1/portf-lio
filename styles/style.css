@@ -1,9 +1,9 @@
 @import url('https://fonts.googleapis.com/css2?family=Krona+One&family=Montserrat:wght@400;600&display=swap');
 
 :root {
-    --cor-primaria: #2D2727;
-    --cor-secundaria: #F0EB8D;
-    --cor-terciaria: #8F43EE;
+    --cor-primaria: #4d2929;
+    --cor-secundaria: #ffffff;
+    --cor-terciaria: #42c6dd;
 
     --fonte-principal: 'Krona One', sans-serif;
     --fonte-secundaria: 'Montserrat', sans-serif;
@@ -17,7 +17,7 @@ body {
     /* height: 100vh; */
     box-sizing: border-box;
     background-color: var(--cor-primaria);
-    color: #F0EB8D;
+    color: var(--cor-secundaria);
 }
 .cabeçalho {
     padding: 2% 0 0 15%;
